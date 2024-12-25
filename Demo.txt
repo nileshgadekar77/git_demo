@@ -5,3 +5,6 @@ This message from My Branch
 welcome to main
 
 my branch 2 
+
+commit from branch 1
+
